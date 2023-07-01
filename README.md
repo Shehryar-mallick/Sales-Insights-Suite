@@ -28,14 +28,29 @@ There were two data files associated to the project:
 ## BI TOOL:
 The BI tool used for this project was Microsoft Power BI.
 
+![alt text](https://github.com/Shehryar-mallick/Sales-Insights-Suite/blob/main/Dashboard/home.png)
+
 ## INSIGHTS:
 Note: Inorder to have an in-depth understanding of the analysis refer to the executive report (Pg9 - Pg13).
 
+![alt text](https://github.com/Shehryar-mallick/Sales-Insights-Suite/blob/main/Dashboard/money_spent.png)
 
-RECOMMENDATION:
-(add image)
+![alt text](https://github.com/Shehryar-mallick/Sales-Insights-Suite/blob/main/Dashboard/money_spent_age_group.png)
 
-END NOTES:
-For the technical specifications of the project refer to the executive report as it contains how various pages of the dashboard was created.(Pg x - Pg y).
+![alt text](https://github.com/Shehryar-mallick/Sales-Insights-Suite/blob/main/Dashboard/sales_by_state.png)
+
+![alt text](https://github.com/Shehryar-mallick/Sales-Insights-Suite/blob/main/Dashboard/top_20_products.png)
+
+![alt text](https://github.com/Shehryar-mallick/Sales-Insights-Suite/blob/main/Dashboard/unique_customers_by_states.png)
+
+
+## RECOMMENDATION:
+![alt text](https://github.com/Shehryar-mallick/Sales-Insights-Suite/blob/main/Dashboard/recommendations.png)
+
+## END NOTES:
+In-order to use the dashboard yourself, you can download the powerBI file from the repository, the datafiles are also present in the data folder of the main branch of the repository.
+For the technical specifications of the project refer to the executive report as it contains how various pages of the dashboard was created.(Pg 16 - Pg 20).
+
+Executive Report: https://github.com/Shehryar-mallick/Sales-Insights-Suite/blob/main/Sales_Insight_Suite_Executive_Report.pdf
 
 
